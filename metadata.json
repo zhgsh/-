@@ -1,0 +1,6 @@
+{
+  "name": "杭州灵隐寺 · 云林禅境 (Sansa Temple 中文版)",
+  "description": "复刻 sansatemple.com 极具治愈感的线上虚拟禅刹。在千年古刹杭州灵隐寺中，以匿名小沙弥之身安顿心灵，体验合掌礼佛、敲木鱼、转动108颗念珠、撞古钟、点清香与听泉观云，共享一方宁静世界。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
